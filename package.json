@@ -1,0 +1,12 @@
+{
+  	"name": "learning-node",
+  	"description": "Project using node.js + MongoDB + Backbone",
+  	"author": "Flavio <flaviozantut@gmail.com>",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "*",
+		"jade": "*",
+		"socket.io": "*"
+	}
+}
